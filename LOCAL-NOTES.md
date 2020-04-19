@@ -8,6 +8,20 @@ yarn global add generator-jhipster
 yo jhipster
 ```
 
+# Sub generators
+
+## Entity
+
+```
+jhipster entity -help
+jhipster entity Task
+# Follow the wizard
+#   Example for this projects Task entity:
+#     Yes, name, String, y, Required
+#     Yes, dueDate, LocalDate, y, Required
+#     Yes, completed, Booelan, y, Required
+```
+
 # IntelliJ
 
 ```
