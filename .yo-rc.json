@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.therealdanvega"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "tasks",
+    "packageName": "com.therealdanvega",
+    "packageFolder": "com/therealdanvega",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjBkNWNjMTEwYTJhMjZkYTBkOWE4ZWQzOTM3ZDNjYjNiMmIyMTQ1MDliOTE3ZGY5OTM0ZGZjMDQ3ZGE2ZWMwODMzZjliZTUyOGFiZTk3ODkxNGQ3YTMwZmMwZjRhMmEwZTM2ZWNjMTA4NjY1ODdmNDk1YjJkYWMwNzBjNzhhYTM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1587304760368,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
