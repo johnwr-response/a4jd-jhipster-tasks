@@ -1,4 +1,6 @@
-Create Tasks Application
+# Notes
+
+https://github.com/danvega/jhipster-course
 
 ```
 yarn global add yo
